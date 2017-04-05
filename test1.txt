@@ -10,5 +10,8 @@
 }
 
 {
+	remove:1
+}
+{
 	insert:1
 }
